@@ -26,11 +26,12 @@ As a user I want to be able to access the website on all my devices
 
 
 ## Assets
+Font Dancing Script https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap
+
 
 
 ## Images
-    wireframe
-
+![Wireframe](<Veetas_ Garden_Wireframe.png>)
 
 ## To Do
 
