@@ -32,6 +32,10 @@ Font Dancing Script https://fonts.googleapis.com/css2?family=Dancing+Script:wght
 
 ## Images
 ![Wireframe](<Veetas_ Garden_Wireframe.png>)
+![Homepage](<Screenshot_Veetas01.png>)
+![Homepage02](<Screenshot_Veetas02.png>)
+![Cookbook page](<Screenshot_Cookbook01.png>)
+![Contact page](<Screenshot_Contacts01.png>)
 
 ## To Do
 
