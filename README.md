@@ -2,7 +2,7 @@ Quintin Love
 # Food Blogger/ Chef website
 
 This website is about about a hypothetical Food Blogger.
-Link: [https://github.com/Qlove662/Bootstrap.git] https://github.com/Qlove662/Bootstrap.git
+Link: [https://github.com/Qlove662/Project_01.git] https://github.com/Qlove662/Project_01.git
 
 
 ## Client Request
